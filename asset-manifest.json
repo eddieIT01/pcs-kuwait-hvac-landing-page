@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://eddieit01.github.io/pcs-kuwait-hvac-landing-page/static/css/main.aba19cb7.css",
+    "main.js": "https://eddieit01.github.io/pcs-kuwait-hvac-landing-page/static/js/main.90b41366.js",
+    "index.html": "https://eddieit01.github.io/pcs-kuwait-hvac-landing-page/index.html",
+    "main.aba19cb7.css.map": "https://eddieit01.github.io/pcs-kuwait-hvac-landing-page/static/css/main.aba19cb7.css.map",
+    "main.90b41366.js.map": "https://eddieit01.github.io/pcs-kuwait-hvac-landing-page/static/js/main.90b41366.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aba19cb7.css",
+    "static/js/main.90b41366.js"
+  ]
+}
